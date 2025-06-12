@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af325727-070c-4982-9fe8-d4e6028aba10" name="Changes" comment="Cambios en Controladores">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/E4/cosmos_sql/controller/FacturacionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/E4/cosmos_sql/controller/FacturacionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/E4/cosmos_sql/controller/ClientesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/E4/cosmos_sql/controller/ClientesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/E4/cosmos_sql/controller/FacturacionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/E4/cosmos_sql/controller/FacturacionController.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2xPwXT5oc0QNNYe2vs9vpQu77s4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.cosmos-sql [clean].executor": "Run",
+    "Maven.cosmos-sql [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CosmosSqlApplication.executor": "Run",
+    "git-widget-placeholder": "eduardo",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Tareas UV/BaseDeDatosDistribuidos/ProyectoBaseDatos/cosmos-sql",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Micronaut EL",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CosmosSqlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="cosmos-sql" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.E4.cosmos_sql.CosmosSqlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af325727-070c-4982-9fe8-d4e6028aba10" name="Changes" comment="" />
+      <created>1747853057229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747853057229</updated>
+      <workItem from="1747853059113" duration="47000" />
+      <workItem from="1747853125547" duration="12806000" />
+      <workItem from="1747945044331" duration="6079000" />
+      <workItem from="1747965631702" duration="1300000" />
+      <workItem from="1747967630679" duration="7293000" />
+      <workItem from="1748039989105" duration="651000" />
+      <workItem from="1748041249649" duration="8227000" />
+      <workItem from="1748303323695" duration="3227000" />
+      <workItem from="1748386335156" duration="17317000" />
+      <workItem from="1748908153894" duration="1777000" />
+      <workItem from="1749047390556" duration="23649000" />
+      <workItem from="1749099956522" duration="5743000" />
+      <workItem from="1749261524250" duration="19218000" />
+      <workItem from="1749394572333" duration="2666000" />
+      <workItem from="1749415938667" duration="30067000" />
+      <workItem from="1749569388757" duration="10154000" />
+      <workItem from="1749614937108" duration="314000" />
+      <workItem from="1749675470553" duration="5444000" />
+      <workItem from="1749699928261" duration="5363000" />
+      <workItem from="1749752456949" duration="5913000" />
+    </task>
+    <task id="LOCAL-00001" summary="problema con jdk">
+      <option name="closed" value="true" />
+      <created>1749342470220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749342470220</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cambios en Controladores">
+      <option name="closed" value="true" />
+      <created>1749571317312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749571317312</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ÂCrear usuario" />
+    <MESSAGE value="problema con jdk" />
+    <MESSAGE value="Cambios en Controladores" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios en Controladores" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.netty.channel.ConnectTimeoutException" package="io.netty.channel" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
