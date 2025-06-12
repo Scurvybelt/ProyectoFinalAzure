@@ -57,7 +57,7 @@ public class ClientesController {
                     // If a client already exists, return a conflict response
                     Map<String, Object> response = new HashMap<>();
                     response.put("status", "error");
-                    response.put("message", "El cliente con el mismo nombre_RazonSocial ya existe");
+                    response.put("message", "El cliente que quieres dar de alta ya lo tienes o alguien mas ya lo tiene asignado");
                     return Mono.just(ResponseEntity.status(HttpStatus.CONFLICT).body(response));
                 })
                 .switchIfEmpty(

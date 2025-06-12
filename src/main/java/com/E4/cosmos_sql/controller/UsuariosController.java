@@ -82,6 +82,7 @@ public class UsuariosController {
             Map<String, Object> response = new HashMap<>();
             response.put("message", "Usuario creado exitosamente");
             response.put("usuario", savedUsuario.getCorreo());
+            response.put("idUsuario", savedUsuario.getId_Usuario());
             return ResponseEntity.status(HttpStatus.CREATED).body(response);
         });
 
