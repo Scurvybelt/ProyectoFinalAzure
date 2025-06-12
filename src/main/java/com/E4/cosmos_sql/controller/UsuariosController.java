@@ -124,6 +124,7 @@ public class UsuariosController {
                     Map<String, Object> response = new HashMap<>();
                     response.put("status", "success");
                     response.put("id", usuario.getId_Usuario());
+                    response.put("nombre", usuario.getNombre());
                     return ResponseEntity.ok(response);
                 })
                 .switchIfEmpty(Mono.defer(() -> {
