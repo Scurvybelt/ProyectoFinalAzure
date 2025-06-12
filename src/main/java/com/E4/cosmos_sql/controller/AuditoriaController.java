@@ -25,7 +25,7 @@ public class AuditoriaController {
     // 1. Crear una nueva auditoría
     @PostMapping
     public Mono<ResponseEntity<Map<String, Object>>> createAuditoria(@RequestBody Auditoria auditoria) {
-        auditoria.setFechaMovimiento(java.time.LocalDate.now()); // Fecha actual
+        auditoria.setFechaMovimiento(java.time.LocalDateTime.now()); // Fecha actual
         return auditoriaRepository.save(auditoria)
                 .map(savedAuditoria -> {
                     Map<String, Object> response = new HashMap<>();
