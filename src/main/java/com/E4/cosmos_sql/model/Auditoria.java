@@ -7,7 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 
 
 @Container(containerName = "Auditoria")
@@ -21,7 +21,7 @@ public class Auditoria {
     @GeneratedValue
     private String id_Auditoria;
     private String accion;
-    private LocalDate fechaMovimiento;
+    private LocalDateTime fechaMovimiento;
     private String id_Usuario;
     private String usuarioName;
     private String id_Cliente;
@@ -43,11 +43,11 @@ public class Auditoria {
         this.clienteName = clienteName;
     }
 
-    public LocalDate getFechaMovimiento() {
+    public LocalDateTime getFechaMovimiento() {
         return fechaMovimiento;
     }
 
-    public void setFechaMovimiento(LocalDate fechaMovimiento) {
+    public void setFechaMovimiento(LocalDateTime fechaMovimiento) {
         this.fechaMovimiento = fechaMovimiento;
     }
 
